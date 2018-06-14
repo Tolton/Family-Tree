@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+div {
+    margin: auto;
+}
+
+.child {
+    width: 200px;
+    height:  300px;
+    float: left;
+    text-align: center;
+}
+.childContainer {
+
+    border: 1px solid black;
+}
+.parent {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+    width: 125px;
+    height:  200px;
+}
